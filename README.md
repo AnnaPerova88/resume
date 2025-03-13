@@ -38,7 +38,7 @@
 *Junior Data Scientist* | 2021 – н.в.  
 **Проекты**:  
 - Базовые соревнования: Titanic, House Prices, Digit Recognizer  
-- Медицинские кейсы:  
+- Примеры проектов:  
   - Классификация подтипов рака яичников ([UBC Ovarian Cancer](https://www.kaggle.com/competitions/UBC-OCEAN))  
   - Flowers Classification with TPU (Accuracy: 0.87, **47/126**)  
 **Стек**: Python, PyTorch, TensorFlow, OpenCV.
