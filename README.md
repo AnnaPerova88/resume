@@ -9,7 +9,7 @@
 - **10+ ML проектов на Kaggle**:  
   - Классификация меланомы ([SIIM-ISIC Melanoma Classification](https://www.kaggle.com/competitions/siim-isic-melanoma-classification)) — **180/1026**  
   - Сегментация сосудов в 3D-сканах почек ([Hacking the Human Vasculature](https://www.kaggle.com/competitions/hacking-the-human-vasculature))  
-  - Предсказание исходов цирроза печени ([Multi-Class Prediction of Cirrhosis Outcomes](https://www.kaggle.com/competitions/multi-class-prediction-of-cirrhosis-outcomes))  
+ 
 - **Навыки**:  
   - Python, SQL, ML/DL, NLP, Computer Vision  
   - PyTorch, TensorFlow, Pandas, NumPy, Scikit-learn  
